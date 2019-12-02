@@ -44,7 +44,7 @@ def compareTos(s1, s2):
 
 
 if __name__ == "__main__":
-    
+
     fib = fibonacci(8)
     print(fib)
 
